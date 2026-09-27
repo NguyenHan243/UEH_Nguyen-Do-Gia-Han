@@ -18,7 +18,7 @@ def generate_launch_description():
     # 2. Node Nhận diện Đèn/Biển báo
     traffic_perception_node = Node(
         package='crc_sim',
-        executable='den',
+        executable='traffic_perception_test',
         name='traffic_perception_tester',
         output='screen',
         parameters=[{'use_sim_time': True}]
