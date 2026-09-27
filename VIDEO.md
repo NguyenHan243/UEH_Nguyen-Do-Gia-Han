@@ -1,4 +1,5 @@
 # Video Demo: Hệ thống Điều khiển Mobile Robot Tự hành
+Playlist: [https://www.youtube.com/playlist?list=PLNy7qICrqk2s]
 Xử lý dốc cầu và kích hoạt tunnel mode - [https://youtu.be/lFW1baJn-r4]
 Lidar kích hoạt né vật cản bên đường - [https://youtu.be/GgKbd_SIEvg]
 Xử lý biển báo và tín hiệu đèn giao thông - [https://youtu.be/a3FUBQiB-Bg]
